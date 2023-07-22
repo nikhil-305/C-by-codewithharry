@@ -1,0 +1,2 @@
+ iter++;
+    cout<<*iter<<" ";
